@@ -1,0 +1,8 @@
+Frontend
+https://github.com/LifeAtKMITL/notes-frontend
+https://github.com/LifeAtKMITL/subject-reviews-frontend
+https://github.com/LifeAtKMITL/gened-frontend
+https://github.com/LifeAtKMITL/dorm-frontend
+
+Backend
+https://github.com/LifeAtKMITL/life-at-kmitl-backend
